@@ -101,7 +101,7 @@ I looked at the acceptance rate by Gender and Time of coupon
 Observation 13- It can be also worth noting that 6 PM is best time for acceptance of coupons more so for females. 10 PM is also good for males.
 
 
-**Overall Conclusion for bar coupons** - It would be great to target "males" with age "26" driving with "friends" at "6 PM" who have "more than 1 visits per month" to the bar as the target group for high acceptance of coupons
+**Overall Conclusion for bar coupons** - Just as an example recommendation, it would be great to target "males" with age "26" driving with "friends" at "6 PM" who have "more than 1 visits per month" to the bar as the target group for high acceptance of coupons
 
 
 
