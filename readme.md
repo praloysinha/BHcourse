@@ -1,10 +1,10 @@
 **Objective: This project is to analyze the different factors which may influence the acceptance of eateries' coupons by the drivers who are in the vicinity.**
 
 
-Data Context: It has the demographic information of the driver, passenger details, timing and frequency of restaurant visits etc.
+**Data Context:** It has the demographic information of the driver, passenger details, timing and frequency of restaurant visits etc.
 
 
-Approach: I looked at the acceptance percentage of different types of driver cohorts by aplying different kind of filters and then seeing which factors lead to higher acceptance rates.
+**Approach:** I looked at the acceptance percentage of different types of driver cohorts by aplying different kind of filters and then seeing which factors lead to higher acceptance rates.
 
 
 It was done in a Jupiter notebook and with Seaborn and Plotly plots. It is uploaded in this same folder. 
@@ -101,7 +101,7 @@ I looked at the acceptance rate by Gender and Time of coupon
 Observation 13- It can be also worth noting that 6 PM is best time for acceptance of coupons more so for females. 10 PM is also good for males.
 
 
-Overall Conclusion for bar coupons - It would be great to target "males" with age "26" driving with "friends" at "6 PM" who have "more than 1 visits per month" to the bar as the target group for high acceptance of coupons
+**Overall Conclusion for bar coupons** - It would be great to target "males" with age "26" driving with "friends" at "6 PM" who have "more than 1 visits per month" to the bar as the target group for high acceptance of coupons
 
 
 
