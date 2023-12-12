@@ -1,3 +1,5 @@
+Link to the Jupiter notebook:
+
 **Objective: This project is to analyze the different factors which may influence the acceptance of eateries' coupons by the drivers who are in the vicinity.**
 
 
