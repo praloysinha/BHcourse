@@ -179,3 +179,6 @@ Frequency of visits, passenger type, age, time of visit, weather,travel directio
 
 Have created a funnel which illustrates the target groups which can be used for issuing coupons and their definitions
 
+
+The next step can be to use these target groups to issue coupons for a higher acceptance rate. Also be cognizant of the drivers of higher acceptance while desiging any coupon for these two categories.
+
