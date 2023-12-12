@@ -170,7 +170,7 @@ Overall Conclusion: It is clear from the above observations that we can increase
 Frequency of visits, passenger type, age, time of visit, weather,travel direction
 
 
-Have created the groups 1-6 which increasingly improves the acceptance % to 81.94%.
+**Have created the groups 1-6 which increasingly improves the acceptance % to 81.94%.**
 
 
 Have created a funnel which illustrates the target groups which can be used for issuing coupons and their definitions
