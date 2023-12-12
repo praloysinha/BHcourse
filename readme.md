@@ -104,5 +104,74 @@ Observation 13- It can be also worth noting that 6 PM is best time for acceptanc
 **Overall Conclusion for bar coupons** - Just as an example recommendation, it would be great to target "males" with age "26" driving with "friends" at "6 PM" who have "more than 1 visits per month" to the bar as the target group for high acceptance of coupons
 
 
+**Analyses of the Coffee House coupons**
 
+
+**Approach**
+
+
+I took a look at the number of coupons and their acceptance criterion based on different categories of restaurants
+
+
+Obs 1. I chose Coffee House as the next group to investigate since it has the highest number of coupons of almost 4k.  I created the dataframe for Coffee House.
+
+
+Obs 2. The acceptance rate of Coffee House coupons at 49.92% is lesser than the overall average of 56%
+
+
+I took a look at the potential variables and their influence over the acceptance criterion 
+
+
+Obs 3. From the figure it can be observed that higher frequency visits(more than once a month) have higher acceptance % and if there is a friend or a partner, the acceptance is higher.
+
+
+I created a dataframe for coffee house visitors more than once a month
+
+
+Obs 4. From the figure it can be concluded that 10 AM and 6 PM are the top slots to drink coffee and ages 21 and 26 are the top ages to target. 
+
+
+Obs 5.From this plot, we can infer that sunny weather with 80 degrees temperature has a high acceptance
+
+
+Obs 6. From the below figures, it can be inferred that Computer & Mathemautical, Unemployed, Education & Training and Student have marginally higher acceptance and also Single and Married Partner are the top ones as per Marital Status
+
+
+Obs 7.From the below plot, it can be inferred that opposite direction travel positively influences acceptance
+
+
+Based on the above observations, I created a few groups which can have high acceptance % and can be potential target groups which are a subset of each other 
+
+
+Group 0: Customers who have received coffee coupons
+
+
+Group 1 - go to Coffee Houses more than once a month
+
+
+Group 2 - go to Coffee Houses more than once a month, had passengers that were friends or partner
+
+
+Group 3 - go to Coffee Houses more than once a month, had passengers that were friends or partner, aged 21 or 26
+
+
+Group 4- go to Coffee Houses more than once a month, had passengers that were friends or partner, aged 21 or 26 visited at 10 AM or 6 PM
+
+
+Group 5- go to Coffee Houses more than once a month, had passengers that were friends or partner, aged 21 or 26 visited at 10 AM or 6 PM and weather is sunny
+
+
+Group 6- go to Coffee Houses more than once a month, had passengers that were friends or partner, aged 21 or 26 visited at 10 AM or 6 PM and weather is sunny and need to travel 
+
+
+Overall Conclusion: It is clear from the above observations that we can increase our acceptance % of 49.92% in Coffee House coupons by filtering on certain variables like:
+
+
+Frequency of visits, passenger type, age, time of visit, weather,travel direction
+
+
+Have created the groups 1-6 which increasingly improves the acceptance % to 81.94%.
+
+
+Have created a funnel which illustrates the target groups which can be used for issuing coupons and their definitions
 
