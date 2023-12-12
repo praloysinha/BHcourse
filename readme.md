@@ -1,4 +1,6 @@
-Link to the Jupiter notebook:
+Link to the Jupiter notebook:https://github.com/praloysinha/BHcourse/blob/main/Praloy_Analyses_Code1.ipynb
+
+Important: Please run the code once to generate the Plotly plots which may not be visible when you open the notebook.
 
 **Objective: This project is to analyze the different factors which may influence the acceptance of eateries' coupons by the drivers who are in the vicinity.**
 
